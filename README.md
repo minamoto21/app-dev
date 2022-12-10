@@ -1,5 +1,6 @@
 # app-dev
 My first repository
+*John Mark L. Peñaranda*
 ## My Favorite Series.
 1. Gintama
 2. Sword Art Online
